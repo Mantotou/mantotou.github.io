@@ -5,6 +5,10 @@
 <lastmod>2021-11-07T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/athome/</loc>
+<lastmod>2022-09-30T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/moments</loc>
 </url>
 <url>
@@ -24,5 +28,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/category/trip/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/category/life/</loc>
 </url>
 </urlset>
