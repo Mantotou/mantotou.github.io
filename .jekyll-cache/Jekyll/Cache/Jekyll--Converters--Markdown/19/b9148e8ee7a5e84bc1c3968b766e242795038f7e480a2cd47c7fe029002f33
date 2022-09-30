@@ -1,0 +1,49 @@
+I"8<div class="list-authors mt-5">
+   
+    <div id="Mantie" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
+        <div class="row">
+            <div class="wrapavname col-md-3 text-center">
+                
+                <img class="author-thumb" src="/assets/images/avatar.png" alt="" />
+                
+                
+            </div>
+            <div class="col-md-9">
+                <h3>Mantie</h3>
+                <p class="mt-3 mb-0">The 1st cutest penguin in this world.</p> 
+            </div>
+        </div> 
+    </div>    
+   
+    <div id="Pinbi" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
+        <div class="row">
+            <div class="wrapavname col-md-3 text-center">
+                
+                <img class="author-thumb" src="/assets/images/avatar.png" alt="" />
+                
+                
+            </div>
+            <div class="col-md-9">
+                <h3>Pinbi</h3>
+                <p class="mt-3 mb-0">The 2nd cutest penguin in this world.</p> 
+            </div>
+        </div> 
+    </div>    
+   
+    <div id="Chika" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
+        <div class="row">
+            <div class="wrapavname col-md-3 text-center">
+                
+                <img class="author-thumb" src="/assets/images/avatar.png" alt="" />
+                
+                
+            </div>
+            <div class="col-md-9">
+                <h3>Chika</h3>
+                <p class="mt-3 mb-0">Metal lover.</p> 
+            </div>
+        </div> 
+    </div>    
+
+</div>
+:ET

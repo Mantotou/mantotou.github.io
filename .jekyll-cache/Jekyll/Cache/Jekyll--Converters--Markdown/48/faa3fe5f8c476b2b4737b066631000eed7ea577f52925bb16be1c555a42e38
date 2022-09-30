@@ -1,0 +1,59 @@
+I"#<!-- Posts Index
+================================================== -->
+<div class="blog-grid-container">
+    
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/park/">
+                
+
+                    
+                        <img class="img-thumb" src="/assets/images/211107/DSC01689.jpg" alt="Autumn leaves in the park" /> 
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/park/">Autumn leaves in the park</a>
+                
+            </h2>
+            <h4 class="card-text">It’s our first autumn together.
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                
+                <span class="meta-footer-thumb">
+                
+                <img class="author-thumb" src="/assets/images/avatar.png" alt="Mantie" />
+                
+                </span>
+                <span class="author-meta">
+                <span class="post-name font-weight-bold">Mantie</span> 
+                
+                <span class="post-date">30 Sep 2022</span>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+    
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    
+</span>
+</div>
+
+:ET

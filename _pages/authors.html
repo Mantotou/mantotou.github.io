@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Authors
-permalink: /authors
+title: Family
+permalink: /family
 comments: false
 ---
 <div class="list-authors mt-5">
@@ -14,22 +14,6 @@ comments: false
                 {% else %}
                 <img  class="author-thumb" src="{{site.baseurl}}/{{ author[1].avatar }}" alt="{{ author.display_name }}">
                 {% endif %}
-
-                <p class="mt-4 mb-0 small text-center">
-
-                    {% if author[1].web %}
-                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].web }}"><i class="fa fa-link"></i></a> 
-                    {% endif %}
-
-                    {% if author[1].twitter %}
-                        <a target="_blank" class="d-inline-block mx-1 text-dark" href="{{ author[1].twitter }}"><i class="fab fa-twitter"></i></a>
-                    {% endif %}
-
-                    {% if author[1].email %}
-                        <a class="d-inline-block mx-1 text-dark" href="mailto:{{ author[1].email }}"><i class="fa fa-envelope"></i></a>
-                    {% endif %}
-
-                </p>
                 
             </div>
             <div class="col-md-9">
