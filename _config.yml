@@ -23,17 +23,47 @@ authors:
     name: Romie
     display_name: Romie
     avatar: 'assets/images/avatar.png'
-    description: "My cute nechan."
+    description: "Cute and kind and smart nechan."
   pinbi:
     name: Pinbi
     display_name: Pinbi
     avatar: 'assets/images/avatar.png'
-    description: "The 2nd cutest penguin in this world."
+    description: "I'm the leader in this house. Ahahahahah. And I'm not a plushie..."
+  vicek:
+    name: Víček
+    display_name: Víček
+    avatar: 'assets/images/avatar.png'
+    description: "I saw everything. I mean about Romie."
   chika:
     name: Chika
     display_name: Chika   
     avatar: 'assets/images/avatar.png'
-    description: "Metal lover."
+    description: "Metal is the best."
+  pinpin:
+    name: Pinpin
+    display_name: Pinpin   
+    avatar: 'assets/images/avatar.png'
+    description: "Oresama is the king!!"
+  snutie:
+    name: Snutie
+    display_name: Snutie
+    avatar: 'assets/images/avatar.png'
+    description: "Sister of だれ."
+  genis:
+    name: Small Geni
+    display_name: Small Geni
+    avatar: 'assets/images/avatar.png'
+    description: "Genigeni, genigeni geni."
+  genil:
+    name: Big Geni
+    display_name: Big Geni
+    avatar: 'assets/images/avatar.png'
+    description: "Geni, genigenigeni genigeni."
+  kadlik:
+    name: Kadlik
+    display_name: Kadlik
+    avatar: 'assets/images/avatar.png'
+    description: "Time for lunch.. (going out)"
 
 # Plugins
 plugins:

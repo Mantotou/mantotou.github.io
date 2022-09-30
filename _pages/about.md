@@ -22,6 +22,10 @@ Mantie started building this website!
 
 <br/>
 
+
+
+
+
 #### 28/12/2021
 
 We moved in together. 
@@ -30,7 +34,7 @@ We moved in together.
 
 
 
-#### 20/10/2021
+#### 20/10/2021 ❤️
 
 Romie and Mantie's first kiss. 
 
