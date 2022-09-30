@@ -23,7 +23,7 @@ authors:
     name: Romie
     display_name: Romie
     avatar: 'assets/images/avatar.png'
-    description: "Cute and kind and smart nechan."
+    description: "Smaller than Mantie."
   pinbi:
     name: Pinbi
     display_name: Pinbi
@@ -64,6 +64,51 @@ authors:
     display_name: Kadlik
     avatar: 'assets/images/avatar.png'
     description: "Time for lunch.. (going out)"
+  dubie:
+    name: Dubie
+    display_name: Dubie
+    avatar: 'assets/images/avatar.png'
+    description: "I sit and I win."
+  guabi:
+    name: Guabi
+    display_name: Guabi
+    avatar: 'assets/images/avatar.png'
+    description: "I'm a cute little frogie."
+  cowfie:
+    name: Cowfie
+    display_name: Cowfie
+    avatar: 'assets/images/avatar.png'
+    description: "I'm a cow and also I'm a fish."
+  pumpie:
+    name: Pumpie
+    display_name: Pumpie
+    avatar: 'assets/images/avatar.png'
+    description: "I look very Halloween."
+  pinnie:
+    name: Pinnie
+    display_name: Pinnie
+    avatar: 'assets/images/avatar.png'
+    description: "I never fall."
+  pinpo:
+    name: Pinpo
+    display_name: Pinpo
+    avatar: 'assets/images/avatar.png'
+    description: "Why do I have blue feet..."
+  poppy:
+    name: Poppy
+    display_name: Poppy
+    avatar: 'assets/images/avatar.png'
+    description: "Give me some lines."
+  dare:
+    name: だれ
+    display_name: だれ
+    avatar: 'assets/images/avatar.png'
+    description: "だれ?"
+  tennis:
+    name: Tennis Ball
+    display_name: Tennis Ball
+    avatar: 'assets/images/avatar.png'
+    description: "A tennis ball."
 
 # Plugins
 plugins:
