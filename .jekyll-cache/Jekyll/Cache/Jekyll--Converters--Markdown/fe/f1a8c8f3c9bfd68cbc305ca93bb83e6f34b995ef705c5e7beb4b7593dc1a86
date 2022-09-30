@@ -1,0 +1,54 @@
+I"K<div class="list-authors mt-5">
+   
+    <div id="Pinbi" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
+        <div class="row">
+            <div class="wrapavname col-md-3 text-center">
+                
+                <img class="author-thumb" src="/assets/images/avatar-sal.png" alt="" />
+                
+
+                <p class="mt-4 mb-0 small text-center">
+
+                    
+
+                    
+
+                    
+
+                </p>
+                
+            </div>
+            <div class="col-md-9">
+                <h3>Pinbi</h3>
+                <p class="mt-3 mb-0">The cutest penguin in this world.</p> 
+            </div>
+        </div> 
+    </div>    
+   
+    <div id="Chika" class="authorbox position-relative pb-5 pt-5 mb-4 mt-4 border">   
+        <div class="row">
+            <div class="wrapavname col-md-3 text-center">
+                
+                <img class="author-thumb" src="/assets/images/avatar.png" alt="" />
+                
+
+                <p class="mt-4 mb-0 small text-center">
+
+                    
+
+                    
+
+                    
+
+                </p>
+                
+            </div>
+            <div class="col-md-9">
+                <h3>Chika</h3>
+                <p class="mt-3 mb-0">Metal lover.</p> 
+            </div>
+        </div> 
+    </div>    
+
+</div>
+:ET
