@@ -17,12 +17,12 @@ authors:
   mantie:
     name: Mantie
     display_name: Mantie
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/mantie.jpeg'
     description: "The 1st cutest penguin in this world."
   romie:
     name: Romie
     display_name: Romie
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/romie.jpeg'
     description: "Smaller than Mantie."
   pinbi:
     name: Pinbi
