@@ -79,9 +79,9 @@ authors:
     display_name: Cowfie
     avatar: 'assets/images/profile/cowfie.jpeg'
     description: "I'm a cow and also I'm a fish."
-  shamble:
-    name: Shamble
-    display_name: Shamble
+  shambu:
+    name: Shambu
+    display_name: Shambu
     avatar: 'assets/images/profile/shamble.jpeg'
     description: "I'm so confused."
   pumpie:
@@ -114,6 +114,11 @@ authors:
     display_name: Tennis Ball
     avatar: 'assets/images/profile/tennis.jpeg'
     description: "A tennis ball."
+  bot:
+    name: Totoro Bot
+    display_name: Totoro Bot
+    avatar: 'assets/images/avatar.png'
+    description: "A penguin bot."
 
 # Plugins
 plugins:
