@@ -18,11 +18,7 @@ imageshadow: true
 
 Mantie started building this website!
 
-
-
 <br/>
-
-
 
 
 
@@ -44,4 +40,14 @@ Romie and Mantie's first kiss.
 
 #### 14/10/2021
 
-Romie and Mantie's first date in the cafe. 
+Our first date in the cafe. Mantie was too shy to talk. 
+
+<br/>
+
+
+
+#### 30/09/2021
+
+Romie and Mantie started chatting. 
+
+<br/>
