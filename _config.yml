@@ -27,32 +27,32 @@ authors:
   pinbi:
     name: Pinbi
     display_name: Pinbi
-    avatar: 'assets/images/profile/pinbi.jpg'
+    avatar: 'assets/images/profile/pinbi.jpeg'
     description: "I'm the leader in this house. Ahahahahah. And I'm not a plushie..."
   vicek:
     name: Víček
     display_name: Víček
-    avatar: 'assets/images/profile/vicek.jpg'
+    avatar: 'assets/images/profile/vicek.jpeg'
     description: "I saw everything. I mean about Romie."
   chika:
     name: Chika
     display_name: Chika   
-    avatar: 'assets/images/profile/chika.jpg'
+    avatar: 'assets/images/profile/chika.jpeg'
     description: "Metal is the best."
   pinpin:
     name: Pinpin
     display_name: Pinpin   
-    avatar: 'assets/images/profile/pinpin.jpg'
+    avatar: 'assets/images/profile/pinpin.jpeg'
     description: "Oresama is the king!!"
   snutie:
     name: Snutie
     display_name: Snutie
-    avatar: 'assets/images/profile/snutie.jpg'
+    avatar: 'assets/images/profile/snutie.jpeg'
     description: "Sister of だれ."
   genis:
     name: Small Geni
     display_name: Small Geni
-    avatar: 'assets/images/profile/genis.jpg'
+    avatar: 'assets/images/profile/genis.jpeg'
     description: "Genigeni, genigeni geni."
   genil:
     name: Big Geni
@@ -72,7 +72,7 @@ authors:
   guabi:
     name: Guabi
     display_name: Guabi
-    avatar: 'assets/images/profile/guabi.jpg'
+    avatar: 'assets/images/profile/guabi.jpeg'
     description: "I'm a cute little frogie."
   cowfie:
     name: Cowfie
@@ -107,7 +107,7 @@ authors:
   tennis:
     name: Tennis Ball
     display_name: Tennis Ball
-    avatar: 'assets/images/profile/tennis.jpg'
+    avatar: 'assets/images/profile/tennis.jpeg'
     description: "A tennis ball."
 
 # Plugins
