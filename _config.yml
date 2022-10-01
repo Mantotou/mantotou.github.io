@@ -57,17 +57,17 @@ authors:
   genil:
     name: Big Geni
     display_name: Big Geni
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/genil.jpeg'
     description: "Geni, genigenigeni genigeni."
   kadlik:
     name: Kadlik
     display_name: Kadlik
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/kadlik.jpeg'
     description: "Time for lunch.. (going out)"
   dubie:
     name: Dubie
     display_name: Dubie
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/dubie.jpeg'
     description: "I sit and I win."
   guabi:
     name: Guabi
@@ -77,32 +77,37 @@ authors:
   cowfie:
     name: Cowfie
     display_name: Cowfie
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/cowfie.jpeg'
     description: "I'm a cow and also I'm a fish."
+  shamble:
+    name: Shamble
+    display_name: Shamble
+    avatar: 'assets/images/profile/shamble.jpeg'
+    description: "I'm so confused."
   pumpie:
     name: Pumpie
     display_name: Pumpie
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/pumpie.jpeg'
     description: "I look very Halloween."
   pinnie:
     name: Pinnie
     display_name: Pinnie
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/pinnie.jpeg'
     description: "I never fall."
   pinpo:
     name: Pinpo
     display_name: Pinpo
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/pinpo.jpeg'
     description: "Why do I have blue feet..."
   poppy:
     name: Poppy
     display_name: Poppy
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/poppy.jpeg'
     description: "Give me some lines."
   dare:
     name: だれ
     display_name: だれ
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/profile/dare.jpeg'
     description: "だれ?"
   tennis:
     name: Tennis Ball
