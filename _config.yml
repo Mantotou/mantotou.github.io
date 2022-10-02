@@ -14,6 +14,11 @@ email: friedsoda1992@gmail.com
 
 # Authors
 authors:
+  bot:
+    name: Totoro Bot
+    display_name: Totoro Bot
+    avatar: 'assets/images/avatar.png'
+    description: "Hello I'm a penguin bot of this website. I protect all the memories."
   mantie:
     name: Mantie
     display_name: Mantie
@@ -114,11 +119,6 @@ authors:
     display_name: Tennis Ball
     avatar: 'assets/images/profile/tennis.jpeg'
     description: "A tennis ball."
-  bot:
-    name: Totoro Bot
-    display_name: Totoro Bot
-    avatar: 'assets/images/avatar.png'
-    description: "A penguin bot."
 
 # Plugins
 plugins:
