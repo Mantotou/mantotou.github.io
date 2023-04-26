@@ -34,6 +34,26 @@ authors:
     display_name: Pinbi
     avatar: 'assets/images/profile/pinbi.jpeg'
     description: "I'm the leader in this house. Ahahahahah. And I'm not a plushie..."
+  pingi: 
+    name: Pingi
+    display_name: Pingi
+    avatar: 'assets/images/profile/pingi.jpg'
+    description: "I'm very very big."
+  pingu:
+    name: Pingu
+    display_name: Pingu
+    avatar: 'assets/images/profile/pingu.jpeg'
+    description: "Noot noot... But why?"
+  pintle:
+    name: Pintle
+    display_name: Pintle
+    avatar: 'assets/images/profile/pintle.jpeg'
+    description: "I'm nice and warm."
+  snoumi:
+    name: Šnoumí
+    display_name: Šnoumí
+    avatar: 'assets/images/profile/snoumi.jpeg'
+    description: "Snow is the best."
   vicek:
     name: Víček
     display_name: Víček
@@ -64,6 +84,11 @@ authors:
     display_name: Big Geni
     avatar: 'assets/images/profile/genil.jpeg'
     description: "Geni, genigenigeni genigeni."
+  pinble:
+    name: Pinble
+    display_name: Pinble
+    avatar: 'assets/images/profile/pinble.jpeg'
+    description: "I protect mommie's cable."
   kadlik:
     name: Kadlik
     display_name: Kadlik
